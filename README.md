@@ -1,4 +1,4 @@
-#lab1
+# lab1
 ```
 #include <stdio.h>
 void sunglases()
